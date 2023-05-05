@@ -1,4 +1,4 @@
-# logos-personal-bible-docx
+# Logos Personal Study Bible .docx
 
 Welcome to the personalized Bible translation for seminarians and students using the Logos Bible software! This translation is designed to help you engage with the original biblical texts in a deeper and more meaningful way, and to support your study and exploration of the Bible as you progress in your academic and spiritual journey. By utilizing a public domain Bible, pastors and teachers can make modifications and then use their personal study Bible without copyright infringement.
 
